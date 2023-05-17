@@ -1,6 +1,16 @@
 # Writeup of some challenges in HeroCTF v5
 
-## Blockchain challenges (not yet written)
+## Blockchain challenges
+
+Challenge 00 : Oh sh. Here we go again ? [18 solves] [487 points]
+
+Challenge 01 : Classic one tbh [17 solves] [489 points] [First blood 🩸]
+
+Challenge 02 : Dive into real life stuff [9 solves] [498 points] [First blood 🩸]
+
+Challenge 03 : You have to be kidding me.. [7 solves] [499 points] [First blood 🩸]
+
+Challenge 04 : Now this is real life [7 solves] [499 points] [First blood 🩸]
 
 ## System challenges :
 
