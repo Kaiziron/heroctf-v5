@@ -244,11 +244,9 @@ addresses = []
 for block in range(500, 1000):
 	print(block)
 	txns = web3.eth.get_block(block).transactions
-	#print(txns)
 	for txn in txns:
 		txn = txn.hex()
 		txn_data = web3.eth.get_transaction(txn)
-		#print(txn_data['to'])
 		if txn_data['to'] == "0x26F8A2D63B06D84121b35990ce8b7FEbac4Fe353":
 			print(txn_data)
 			addresses.append(txn_data['from'])
@@ -352,11 +350,9 @@ transactions = []
 for block in range(1000):
 	print(block)
 	txns = web3.eth.get_block(block).transactions
-	#print(txns)
 	for txn in txns:
 		txn = txn.hex()
 		txn_data = web3.eth.get_transaction(txn)
-		#print(txn_data['to'])
 		if txn_data['to'] == "0xE255CAaD9B3e531AB5e5772856642Ea8E54Dcc2E" or txn_data['from'] == "0xE255CAaD9B3e531AB5e5772856642Ea8E54Dcc2E":
 			print(txn_data)
 			transactions.append(txn_data)

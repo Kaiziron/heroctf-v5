@@ -12,6 +12,14 @@ Challenge 03 : You have to be kidding me.. [7 solves] [499 points] [First blood 
 
 Challenge 04 : Now this is real life [7 solves] [499 points] [First blood 🩸]
 
+The arrest [13 solves] [494 points]
+
+Tracing the First Transaction [9 solves] [498 points]
+
+The Second Transaction and the Offshore Connection [7 solves] [499 points]
+
+The Third Transaction and the Insider [7 solves] [499 points]
+
 ## System challenges :
 
 Chm0d [227 solves] [50 points]
